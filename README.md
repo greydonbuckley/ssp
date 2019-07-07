@@ -1,0 +1,2 @@
+# ssp
+single stage pipeline
